@@ -89,7 +89,7 @@ print('kmeans :', str(round(time() - t0,2))+"s","Purity :",purity_score(label,km
 #%%Hierarchical Clustering
 
 agg = AgglomerativeClustering(n_clusters=20).fit(X.toarray())
-print('Hierarchical Clustering :', str(round(time() - t0,2))+"s","Purity:",purity_score(label,km.labels_))
+print('Hierarchical Clustering :', str(round(time() - t0,2))+"s","Purity:",purity_score(label,agg.labels_))
 all_hc = AgglomerativeClustering(distance_threshold=0, n_clusters=None)
 all_hc.fit(X.toarray())
 
