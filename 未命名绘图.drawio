@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T05:41:58.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="J4TMRL47G65Yw8hdZVpC" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T05:47:11.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wN82l87cu0_7Qae0qybw" version="20.8.13" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1434" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="l3MCz5efM6AO9_rTB8cb-55" value="BUYER" style="swimlane;startSize=20;horizontal=0;html=1;fontSize=13;" parent="l3MCz5efM6AO9_rTB8cb-53" vertex="1">
           <mxGeometry x="20" y="410" width="2020" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="l3MCz5efM6AO9_rTB8cb-69" value="form 180 &#xa;vendor input" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=13;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="l3MCz5efM6AO9_rTB8cb-55" vertex="1">
+        <mxCell id="l3MCz5efM6AO9_rTB8cb-69" value="form 180 &#xa;buyer 議價 vendor column" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=1;fontSize=13;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="l3MCz5efM6AO9_rTB8cb-55" vertex="1">
           <mxGeometry x="770" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l3MCz5efM6AO9_rTB8cb-70" value="+free key in" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=13;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="l3MCz5efM6AO9_rTB8cb-69" vertex="1">
