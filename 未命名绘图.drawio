@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T01:50:21.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CkFl51LAkKfJcurPJLLf" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T01:50:52.591Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="N8NVkQsEssPJnZQAOuOw" version="20.8.13" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1434" dy="1614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="1287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,21 +177,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qAhWlhqfdEPMAs1lIDXD-8" value="開立PO" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-140" width="120" height="40" as="geometry" />
+          <mxGeometry x="950" y="-140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qAhWlhqfdEPMAs1lIDXD-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+        <mxCell id="qAhWlhqfdEPMAs1lIDXD-9" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qAhWlhqfdEPMAs1lIDXD-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="880" y="-120" as="sourcePoint" />
             <mxPoint x="930" y="-120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="880" y="-120" />
-              <mxPoint x="990" y="-120" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qAhWlhqfdEPMAs1lIDXD-10" value="auto create" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qAhWlhqfdEPMAs1lIDXD-9">
           <mxGeometry x="0.3036" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-12" as="offset" />
+            <mxPoint x="-16" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
