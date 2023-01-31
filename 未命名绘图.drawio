@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T03:50:15.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lRhJlCPWQ7zQpCbthmDq" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T03:53:21.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XdzpGi40WNUf6K-gFAei" version="20.8.13" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1793" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
           <mxGeometry y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qAhWlhqfdEPMAs1lIDXD-102" value="form 1086&lt;br&gt;start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="l3MCz5efM6AO9_rTB8cb-54">
-          <mxGeometry x="500" y="30" width="100" height="60" as="geometry" />
+          <mxGeometry x="1180" y="30" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qAhWlhqfdEPMAs1lIDXD-105" value="vendor pool" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="l3MCz5efM6AO9_rTB8cb-54">
           <mxGeometry x="490" y="230" width="100" height="60" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry y="30" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qAhWlhqfdEPMAs1lIDXD-21" value="Form106&lt;br&gt;start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="l3MCz5efM6AO9_rTB8cb-55">
-          <mxGeometry x="500" y="100" width="80" height="60" as="geometry" />
+          <mxGeometry x="1190" y="100" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qAhWlhqfdEPMAs1lIDXD-30" value="&lt;br&gt;指定vendor code 申請" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="l3MCz5efM6AO9_rTB8cb-55">
           <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
