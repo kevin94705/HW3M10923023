@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T03:26:31.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Eb4QYHxCRzNE7RZ0uuRG" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T03:27:36.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="2Gt1socWpa1i2Im5NAR5" version="20.8.13" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1247" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -104,6 +104,11 @@
               <mxPoint x="940" y="180" />
               <mxPoint x="890" y="180" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qAhWlhqfdEPMAs1lIDXD-94" value="Requisition Import" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qAhWlhqfdEPMAs1lIDXD-88">
+          <mxGeometry x="-0.0217" relative="1" as="geometry">
+            <mxPoint x="49" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qAhWlhqfdEPMAs1lIDXD-50" value="po.po_requisitions_interface_all.&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;suggested_vendor_name&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;shape=partialRectangle;right=0;left=0;" vertex="1" parent="l3MCz5efM6AO9_rTB8cb-56">
